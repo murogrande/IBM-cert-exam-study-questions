@@ -1,4 +1,4 @@
-# IBM-cert-exam-study-questions
+# IBM-quantum developer certification  exam : study-questions and tips
 
 Open and practice the questions of the notebook "preparation-notebook.ipynb". 
 
